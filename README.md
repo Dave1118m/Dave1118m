@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00AEEF&center=true&width=700&lines=Full-Stack+Developer;Building+Web+%26+Mobile+Apps;I+work+with+many+languages+and+frameworks)
 
-I'm Dave — a Full-Stack Developer building clean, well-organized projects across front-end, back-end, databases, and deployments. I enjoy solving real problems, learning new tech, and shipping reliable, maintainable software.
+I'm Mihrete — a Full-Stack Developer building clean, well-organized projects across front-end, back-end, databases, and deployments. I enjoy solving real problems, learning new tech, and shipping reliable, maintainable software.
 
 ## Quick Snapshot
 - Full-stack web & mobile developer
