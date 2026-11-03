@@ -26,7 +26,6 @@ Working on personal projects that improve full-stack architecture, test coverage
 - Project Beta — A short description and tech used. (link)
 - Project Gamma — A short description and link to repo or demo. (link)
 
-(Replace these placeholders with project names, one-sentence descriptions, and links.)
 
 ## How I Work
 - Write modular, testable code and meaningful docs
