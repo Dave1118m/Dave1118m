@@ -37,12 +37,7 @@ Working on personal projects that improve full-stack architecture, test coverage
 Full-stack architecture, APIs, testing, deployments, or learning new languages and frameworks.
 
 ## Contact
-- Email: youremail@example.com
-- Portfolio: https://your-portfolio.example.com
+- Email: mihrete99@gmail.com
 - GitHub: https://github.com/Dave1118m
-- LinkedIn / Twitter: (add links)
 
-## Extras (optional)
-- Resume / CV link
-- Open to collaboration / freelancing — state availability
-- Languages & proficiency (e.g., English — Fluent)
+
